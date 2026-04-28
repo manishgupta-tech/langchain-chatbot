@@ -1,0 +1,5 @@
+{
+  "name": "LangChain AI Projects",
+  "description": "A modern AI SaaS dashboard featuring tools powered by LangChain and Gemini API, including PDF chat, study assistance, code help, and research summarization.",
+  "requestFramePermissions": []
+}
